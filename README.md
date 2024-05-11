@@ -245,7 +245,7 @@ Here, we showcase the data visualisations in the project.
 Troll:
 
 <p align="center">  
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_word_distribution.png" width="1000" height="600">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_word_distribution.png">
 </p>
 
 
@@ -253,7 +253,7 @@ Troll:
 Verified:
 
 <p align="center">  
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_word_distribution.png" width="1000" height="600">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_word_distribution.png">
 </p>
 
 
@@ -281,14 +281,14 @@ Verified:
 Troll:
 
 <p align="center">  
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_kmeans_clustering.png" width="1000" height="600">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_kmeans_clustering.png">
 </p>
 
 
 Verified:
 
 <p align="center">  
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_kmeans_clustering.png" width="1000" height="600">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_kmeans_clustering.png">
 </p>
 
 
@@ -299,9 +299,9 @@ The following are some example wordcloud plots from topic modelling. The directo
 Troll:
 
 <p float="left">
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_5.png" width="300" />
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_6.png" width="300" />
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_21.png" width="300" />
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_5.png" width="500" />
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_6.png" width="500" />
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_21.png" width="500" />
 </p>
 
 
@@ -309,9 +309,9 @@ Verified:
 
 
 <p float="left">
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_topic_13.png" width="300" />
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_topic_18.png" width="300" />
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_topic_19.png" width="300" />
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_topic_13.png" width="500" />
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_topic_18.png" width="500" />
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_topic_19.png" width="500" />
 </p>
 
 
