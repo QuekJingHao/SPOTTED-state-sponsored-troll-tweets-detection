@@ -1,0 +1,16 @@
+# Folders
+.ipynb_checkpoints
+__pycache__
+tmp_trainer
+
+
+# Log files
+logs.txt
+git_commands.txt
+
+
+# Ignore models and large files
+2 model selection/BertForSequenceClassification/
+2 model selection/w2v/
+2 model selection/feature vectors/features_vector_bert.pt
+5 utilities/word2vec_twitter_tokens.bin
