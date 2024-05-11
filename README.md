@@ -7,7 +7,7 @@
 We fine-tune a pretrained BERTModel, to predict if a tweet is made by an information operative (state-sponsored troll) or by a verified Twitter account. Our purpose is to increase the efficiency of identifying, and disrupting state-sponsored disinformation campaigns for the defense and intelligence community.
 
 <p align="center">  
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3 misc/logo.png" width="400" height="400">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3 misc/logo.png" width="350" height="350">
 </p>
 
 
@@ -239,9 +239,58 @@ Final Accuracy Score : 0.9498
 
 Here, we showcase the data visualisations in the project.
 
-### 1) Word
+### 1) Word Frequency Distributions
 
 
+Troll:
+
+<p align="center">  
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3 misc/logo.png" width="350" height="350">
+</p>
+
+
+
+Verified:
+
+
+
+
+### 2) Wordclouds
+
+Troll:
+
+
+
+
+Verified:
+
+
+
+### 3) Kmeans Clustering Plots
+
+
+Troll:
+
+
+
+
+Verified:
+
+
+### 4) Topic Wordclouds
+
+Troll:
+
+<p float="left">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3 misc/logo.png" width="350" height="350">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3 misc/logo.png" width="350" height="350">
+</p>
+
+
+
+
+
+Verified:
 
 
 
