@@ -7,7 +7,7 @@
 We fine-tune a pretrained BERTModel, to predict if a tweet is made by an information operative (state-sponsored troll) or by a verified Twitter account. Our purpose is to increase the efficiency of identifying, and disrupting state-sponsored disinformation campaigns for the defense and intelligence community.
 
 <p align="center">  
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3 misc/logo.png" width="350" height="350">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/logo.png" width="350" height="350">
 </p>
 
 
@@ -60,7 +60,7 @@ As for the tweets made by verified users, it can be tweets made by accounts such
 The entire data collection process can be summarizes as follows:
 
 <p align="center">  
-  <img src="https://github.com/QuekJingHao/google-data-analytics-capstone-project/blob/main/4 Images/db_overall.png" width="800" height="600">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/collection.png" width="1000" height="800">
 </p>
 
 
@@ -282,8 +282,8 @@ Verified:
 Troll:
 
 <p float="left">
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3 misc/logo.png" width="350" height="350">
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3 misc/logo.png" width="350" height="350">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/logo.png" width="350" height="350">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/logo.png" width="350" height="350">
 </p>
 
 
