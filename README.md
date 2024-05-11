@@ -263,7 +263,7 @@ Verified:
 Troll:
 
 <p align="center">  
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_wordcloud.png">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_wordcloud.png" width="1000" height="800">
 </p>
 
 
@@ -271,7 +271,7 @@ Verified:
 
 
 <p align="center">  
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_wordcloud.png">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_wordcloud.png" width="1000" height="800">
 </p>
 
 
