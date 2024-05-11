@@ -7,7 +7,7 @@
 We fine-tune a pretrained BERTModel, to predict if a tweet is made by an information operative (state-sponsored troll) or by a verified Twitter account. Our purpose is to increase the efficiency of identifying, and disrupting state-sponsored disinformation campaigns for the defense and intelligence community.
 
 <p align="center">  
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/logo.png" width="350" height="350">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/logo.png" width="300" height="300">
 </p>
 
 
@@ -30,7 +30,7 @@ Information warfare (_information / influence operations / IO_) is defined as th
 
 Trolls often create accounts impersonating real people. On these accounts, they can post inflammatory messages, attack commentators or spam official verified accounts with disinformation and provocative rhetoric. A favorite social media platform used by operatives is Twitter. Typically, the moderation and flagging of these accounts require human intervention - having to seeve through these tweets manually, or analysing the account's metadata to identify if the are fake or not. This is a labour intensive work, prone to human error, fatigue and objectivity. Instead, we can exploit advances in natural language processing (NLP), to flag out these tweets and highlight abnormal or suspicous accounts. This will allow moderators and authorities to rapidly remove suspected trolls from their platform.
 
-SPOTTED is a fine-tuned BERTModel. By training the pretrained BERTModel on a large dataset of troll and verified users tweets, it can learn to classify tweets into the two categories. The model then can be used to predict for an unseen tweet, whether is it made by a troll, or by a Twitter user.
+SPOTTED is a fine-tuned BERTModel. By training the pretrained BERTModel on a large dataset of troll and verified users tweets, it can learn to classify tweets into the two categories. The model then can be used to predict for an unseen tweet, whether is it made by a troll, or by a Twitter user. The entire SPOTTED model is about 1GB large, and is not uploaded in this repository.
 
 
 ## Details of Project
@@ -160,7 +160,7 @@ The stratified random sampling process can be summarized in the following chart:
 
 
 <p align="center">  
-  <img src="https://github.com/QuekJingHao/google-data-analytics-capstone-project/blob/main/4 Images/db_overall.png" width="800" height="600">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/random_sampling.png" width="1000" height="800">
 </p>
 
 Lastly, we encode the IO and verified tweets as follows:
@@ -245,13 +245,16 @@ Here, we showcase the data visualisations in the project.
 Troll:
 
 <p align="center">  
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3 misc/logo.png" width="350" height="350">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_wordcloud.png" width="1000" height="600">
 </p>
 
 
 
 Verified:
 
+<p align="center">  
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_wordcloud.png" width="1000" height="600">
+</p>
 
 
 
@@ -259,11 +262,17 @@ Verified:
 
 Troll:
 
-
+<p align="center">  
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_wordcloud.png" width="1000" height="600">
+</p>
 
 
 Verified:
 
+
+<p align="center">  
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_wordcloud.png" width="1000" height="600">
+</p>
 
 
 ### 3) Kmeans Clustering Plots
@@ -271,19 +280,28 @@ Verified:
 
 Troll:
 
-
+<p align="center">  
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_kmeans_clustering.png" width="1000" height="600">
+</p>
 
 
 Verified:
 
+<p align="center">  
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_kmeans_clustering.png" width="1000" height="600">
+</p>
+
 
 ### 4) Topic Wordclouds
+
+The following are some example wordcloud plots from topic modelling. The directory ```4_Notebooks\3_Main\plots``` will contain all of the plots.
 
 Troll:
 
 <p float="left">
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/logo.png" width="350" height="350">
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/logo.png" width="350" height="350">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_5.png" width="350" height="350">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_6.png" width="350" height="350">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_21.png" width="350" height="350">
 </p>
 
 
