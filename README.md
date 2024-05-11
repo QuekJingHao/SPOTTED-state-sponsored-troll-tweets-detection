@@ -299,18 +299,20 @@ The following are some example wordcloud plots from topic modelling. The directo
 Troll:
 
 <p float="left">
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_5.png" width="100" />
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_6.png" width="100" />
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_21.png" width="100" />
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_5.png" width="300" />
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_6.png" width="300" />
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_21.png" width="300" />
 </p>
-
-
-
 
 
 Verified:
 
 
+<p float="left">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_topic_13.png" width="300" />
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_topic_18.png" width="300" />
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_topic_19.png" width="300" />
+</p>
 
 
 
