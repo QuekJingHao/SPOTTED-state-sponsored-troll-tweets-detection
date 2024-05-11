@@ -263,7 +263,7 @@ Verified:
 Troll:
 
 <p align="center">  
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_wordcloud.png" width="1000" height="800">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_wordcloud.png">
 </p>
 
 
@@ -271,7 +271,7 @@ Verified:
 
 
 <p align="center">  
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_wordcloud.png" width="1000" height="800">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_wordcloud.png">
 </p>
 
 
@@ -299,9 +299,9 @@ The following are some example wordcloud plots from topic modelling. The directo
 Troll:
 
 <p float="left">
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_5.png" width="350" height="350">
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_6.png" width="350" height="350">
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_21.png" width="350" height="350">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_5.png">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_6.png">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_operative_topic_21.png">
 </p>
 
 
