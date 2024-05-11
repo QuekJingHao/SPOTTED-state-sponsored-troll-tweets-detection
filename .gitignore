@@ -14,3 +14,5 @@ git_commands.txt
 2 model selection/w2v/
 2 model selection/feature vectors/features_vector_bert.pt
 5 utilities/word2vec_twitter_tokens.bin
+
+# Should also ignore
