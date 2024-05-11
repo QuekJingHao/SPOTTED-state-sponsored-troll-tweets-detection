@@ -245,7 +245,7 @@ Here, we showcase the data visualisations in the project.
 Troll:
 
 <p align="center">  
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_wordcloud.png" width="1000" height="600">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/state_word_distribution.png" width="1000" height="600">
 </p>
 
 
@@ -253,7 +253,7 @@ Troll:
 Verified:
 
 <p align="center">  
-  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_wordcloud.png" width="1000" height="600">
+  <img src="https://github.com/QuekJingHao/SPOTTED-state-sponsored-troll-tweets-detection/blob/main/3_Misc/verified_word_distribution.png" width="1000" height="600">
 </p>
 
 
