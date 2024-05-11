@@ -1,6 +1,6 @@
 # Project SPOTTED: State-sponsored Troll Tweets Detection
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Completed]
 
 ## Project Intro / Objective
 
