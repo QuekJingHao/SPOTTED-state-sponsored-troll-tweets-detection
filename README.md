@@ -237,9 +237,9 @@ Final Accuracy Score : 0.9498
 
 ## Featured Deliverables
 
-Here, we showcase the data visualisations in the project. Namely:
+Here, we showcase the data visualisations in the project.
 
-Word frequency in troll and verified tweets:
+### 1) Word
 
 
 
