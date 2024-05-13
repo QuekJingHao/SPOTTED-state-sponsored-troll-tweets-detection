@@ -80,7 +80,7 @@ In selecting our data, we aim to achieve the following objectives:
 
 I have chose to select the following datasets from the IOA, based on the country's geopolitical significance:
 
-<center>
+<p align="center">  
 
 |                                        |                                                |
 |:---------------------------------------|:-----------------------------------------------|
@@ -97,7 +97,7 @@ I have chose to select the following datasets from the IOA, based on the country
 
 $\dagger$ contains multiple CSVs to be merged
 
-</center>
+</p>
 
 
 #### Selection of Verified Users Tweets
@@ -113,7 +113,7 @@ Hence, we in selecting the verified accounts, we aim to mirror the above mention
 
 Below shows the verified Twitter accounts, categorized into 5 different strata:
 
-<center>
+<p align="center">  
 
 |             |                                      |                             |                                  |                               |                          |
 |:-----------:|:-------------------------------------|:----------------------------|:---------------------------------|:------------------------------|:--------------------------|
@@ -138,13 +138,13 @@ Below shows the verified Twitter accounts, categorized into 5 different strata:
 |             |                                      |                             |                                  |                               | CNN International         |
 |             |                                      |                             |                                  |                               | New York Times World      |
 
-</center>
+</p>
 
 The collection of Tweets is done using the OSINT library - Twitter Intelligence Tool (TWINT) - which bypasses the need for Twitter API.
 
 The number of tweets we will sample from each of these strata is given in the following table:
 
-<center>
+<p align="center">  
 
 | Strata                          | Number of tweets to randomly sample    |
 |:--------------------------------|:---------------------------------------|
@@ -154,7 +154,7 @@ The number of tweets we will sample from each of these strata is given in the fo
 | Entertainment, Science & Tech   | 10 000                                 |
 | International News              | 70 000                                 |
 
-</center>
+</p>
 
 The stratified random sampling process can be summarized in the following chart:
 
